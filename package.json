@@ -37,8 +37,8 @@
   "author": "Mike Shriver",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.700.0",
-    "ibutsu-client-ts": "^2.0.4",
     "@playwright/test": "^1.48.0",
+    "ibutsu-client-ts": "^2.0.4",
     "tar": "^7.4.3",
     "uuid": "^13.0.0"
   },
